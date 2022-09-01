@@ -1,0 +1,152 @@
+[
+  {
+    "value": 40,
+    "name": "1区",
+    "path": "1区"
+  },
+  {
+    "value": 180,
+    "name": "2区",
+    "path": "2区",
+    "children": [
+      {
+        "value": 76,
+        "name": "A段",
+        "path": "2区/A段",
+        "children": [
+          {
+            "value": 12,
+            "name": "A段",
+            "path": "2区/A段/1#楼"
+          },
+          {
+            "value": 28,
+            "name": "A段",
+            "path": "2区/A段/2#楼"
+          },
+          {
+            "value": 20,
+            "name": "D段",
+            "path": "2区/A段/3#楼"
+          },
+          {
+            "value": 16,
+            "name": "E段",
+            "path": "2区/A段/4#楼"
+          }
+        ]
+      },
+      {
+        "value": 92,
+        "name": "B段",
+        "path": "2区/B段",
+        "children": [
+          {
+            "value": 24,
+            "name": "5#楼",
+            "path": "2区/B段/5#楼"
+          },
+          {
+            "value": 16,
+            "name": "6#楼",
+            "path": "2区/B段/6#楼"
+          },
+          {
+            "value": 20,
+            "name": "7#楼",
+            "path": "2区/B段/7#楼"
+          },
+          {
+            "value": 16,
+            "name": "8#楼",
+            "path": "2区/B段/8#楼"
+          },
+          {
+            "value": 16,
+            "name": "9#楼",
+            "path": "2区/B段/9#楼"
+          }
+        ]
+      },
+      {
+        "value": 12,
+        "name": "C段",
+        "path": "2区/C段",
+        "children": [
+          {
+            "value": 12,
+            "name": "10#楼",
+            "path": "2区/C段/10#楼"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 1904,
+    "name": "3区",
+    "path": "3区",
+    "children": [
+      {
+        "value": 744,
+        "name": "A段",
+        "path": "3区/A段",
+        "children": [
+          {
+            "value": 744,
+            "name": "5#楼",
+            "path": "3区/A段/5#楼"
+          }
+        ]
+      },
+      {
+        "value": 28,
+        "name": "B段",
+        "path": "3区/B段",
+        "children": [
+          {
+            "value": 28,
+            "name": "6#楼",
+            "path": "3区/B段/6#楼"
+          }
+        ]
+      },
+      {
+        "value": 680,
+        "name": "C段",
+        "path": "3区/C段",
+        "children": [
+          {
+            "value": 680,
+            "name": "7#楼",
+            "path": "3区/C段/7#楼"
+          }
+        ]
+      },
+      {
+        "value": 432,
+        "name": "D段",
+        "path": "3区/D段",
+        "children": [
+          {
+            "value": 432,
+            "name": "8#楼",
+            "path": "3区/D段/8#楼"
+          }
+        ]
+      },
+      {
+        "value": 20,
+        "name": "E段",
+        "path": "3区/E段",
+        "children": [
+          {
+            "value": 20,
+            "name": "9#楼",
+            "path": "3区/E段/9#楼"
+          }
+        ]
+      }
+    ]
+  }
+]

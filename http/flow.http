@@ -1,0 +1,13 @@
+###
+POST {{flowUrl}}/api/info/history/single/
+Content-Type: application/x-www-form-urlencoded
+Access-Token: {{flowToken}}
+
+pageNumber=1&meterType=DEFAULT&meterCode=1262320801525&startTime=2021-09-11&endTime=2021-09-11
+
+###
+POST {{flowUrl}}/api/info/interval/single/
+Content-Type: application/x-www-form-urlencoded
+Access-Token: {{flowToken}}
+
+pageNumber=1&meterType=DEFAULT&meterCode=1262320801525&startTime=2021-09-10&endTime=2021-09-10

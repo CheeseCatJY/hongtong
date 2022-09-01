@@ -1,0 +1,21 @@
+### 0、二供登录
+POST http://47.93.6.250:10041/Service/C_WNMS_API.asmx/LogIn
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Accept: application/json
+Accept-Charset: GBK
+
+IMEI=0A6FF5BB-7C9E-40BD-A119-463FF40A930B&name=%E9%87%91%E6%B9%96%E8%87%AA%E6%9D%A5%E6%B0%B4&password=123456
+
+
+### 1、获取设备列表
+GET http://47.93.6.250:10041/Service/C_WNMS_API.asmx/LoadRtuData_Z?equNo=&guid=0cc0403b-83b8-4b3c-86d8-13ec77f6e2ec&pageIndex=1&pageSize=1000000&userId=133344612
+Accept: application/json
+
+
+### 2、获取设备信息
+GET http://47.93.6.250:10041/Service/C_WNMS_API.asmx/LoadDeviceJKInfo?equNo=1908172&guid=0cc0403b-83b8-4b3c-86d8-13ec77f6e2ec&userId=133344612
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+### 百度示例
+GET https://baidu.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0

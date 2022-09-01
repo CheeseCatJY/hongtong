@@ -1,0 +1,56 @@
+{
+  "item1": {
+    "item1_1": {
+      "label": "报警总数",
+      "value": 0,
+      "unit": "次"
+    },
+    "item1_2": {
+      "label": "用户总数",
+      "value": 0,
+      "unit": "户"
+    },
+    "item1_3": {
+      "label": "大表用户",
+      "value": 53,
+      "unit": "个"
+    },
+    "item1_4": {
+      "label": "管网监测",
+      "value": 8,
+      "unit": "个"
+    },
+    "item1_5": {
+      "label": "抄表率",
+      "value": 94.5,
+      "unit": "%"
+    }
+  },
+  "item2": {
+    "item2_1": {
+      "label": "分区总数",
+      "value": 2,
+      "unit": "个"
+    },
+    "item2_2": {
+      "label": "泵房总数",
+      "value": 10,
+      "unit": "个"
+    },
+    "item2_3": {
+      "label": "工单处理",
+      "value": 0,
+      "unit": "次"
+    },
+    "item2_4": {
+      "label": "报装处理",
+      "value": 0,
+      "unit": "次"
+    },
+    "item2_5": {
+      "label": "抄收水量",
+      "value": 0,
+      "unit": "吨"
+    }
+  }
+}
